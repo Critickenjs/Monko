@@ -1,0 +1,26 @@
+_____________________ ________.____     ___________ _________
+\______   \_   _____//  _____/|    |    \_   _____//   _____/
+ |       _/|    __)_/   \  ___|    |     |    __)_ \_____  \ 
+ |    |   \|        \    \_\  \    |___  |        \/        \
+ |____|_  /_______  /\______  /_______ \/_______  /_______  /
+        \/        \/        \/        \/        \/        \/ 
+        
+        
+        
+        
+Bienvue sur Monko
+Lorsque vous serez prêt, la parti pourra commencer.
+Les règles sont simples:
+
+1. Votre objectif sera d'atteindre le score en bas de l'écran en récupérant des
+   point que vous pourrez visualiser sur la map pendant 5 secondes.
+2. Une fois les 5 secondes écoulés, vous devrez faire usage de votre mémoire 
+   pour retrouver les item que vous devez aller chercher pour atteindre 
+   exactement le score demandé.
+3. En fonction du niveau choisi vous devrez sois récupérer tous les items 
+   en un certain nombre de coup, ou bien choisir certains items pour arriver
+   un résultat.
+   
+A vous de jouer !
+ 
+
